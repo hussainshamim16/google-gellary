@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1353.0709"
+   height="1353.0709"
+   viewBox="0 0 358.00017 358.00002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="img.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.20526726"
+     inkscape:cx="394.6075"
+     inkscape:cy="194.8679"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:7.76227;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect2591"
+       width="278.45325"
+       height="278.59268"
+       x="39.452847"
+       y="57.833855"
+       ry="34.086327" />
+    <rect
+       style="opacity:1;fill:#4173fd;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:7.60808;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect2589"
+       width="270.10025"
+       height="275.91113"
+       x="54.84341"
+       y="32.14922"
+       ry="33.758236" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:6.54303;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 302.70081,276.54349 -214.26887,0.50588 53.56719,-72.34278 45.17719,50.08347 53.56721,-88.53143 z"
+       id="path1727" />
+  </g>
+</svg>

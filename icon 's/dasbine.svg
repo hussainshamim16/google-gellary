@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1353.0709"
+   height="1353.0709"
+   viewBox="0 0 358.00017 358.00002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="plaas.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.41986485"
+     inkscape:cx="419.18251"
+     inkscape:cy="554.94048"
+     inkscape:window-width="1024"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:11.1657;stroke-opacity:0;paint-order:markers fill stroke"
+       id="rect2332-2"
+       width="17.942976"
+       height="236.63522"
+       x="216.39505"
+       y="73.81842"
+       ry="6.3384442" />
+    <rect
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:10.5486;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect2338-0"
+       width="17.081408"
+       height="221.85237"
+       x="-79.059311"
+       y="-271.35147"
+       ry="5.9424753"
+       transform="matrix(7.3842001e-4,-0.99999973,-0.99999884,-0.00152529,0,0)" />
+    <rect
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:11.1657;stroke-opacity:0;paint-order:markers fill stroke"
+       id="rect371"
+       width="17.942976"
+       height="236.63522"
+       x="79.186348"
+       y="73.81842"
+       ry="6.3384442" />
+    <rect
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:10.5493;stroke-opacity:0;paint-order:markers fill stroke"
+       id="rect375"
+       width="20.096884"
+       height="188.58965"
+       x="-323.45941"
+       y="-251.54106"
+       ry="5.0515084"
+       transform="matrix(5.3352114e-4,-0.99999986,-0.99999777,-0.00211109,0,0)" />
+    <rect
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:10.3026;stroke-opacity:0;paint-order:markers fill stroke"
+       id="rect377"
+       width="18.77092"
+       height="192.5822"
+       x="105.72707"
+       y="93.921303"
+       ry="5.158452" />
+    <rect
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:10.3026;stroke-opacity:0;paint-order:markers fill stroke"
+       id="rect590"
+       width="18.77092"
+       height="192.5822"
+       x="144.07533"
+       y="91.555763"
+       ry="5.158452" />
+    <rect
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:#000003;stroke-width:10.3026;stroke-opacity:0;paint-order:markers fill stroke"
+       id="rect592"
+       width="18.77092"
+       height="192.5822"
+       x="184.55887"
+       y="91.555763"
+       ry="5.158452" />
+  </g>
+</svg>
